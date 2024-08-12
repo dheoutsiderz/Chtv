@@ -13,55 +13,55 @@
 		},
 		{
 			"id": 1,
-			"name": "BRI LIGA"
+			"name": "PREMIUM SPORTS"
 		},
 		{
 			"id": 2,
-			"name": "PREMIUM SPORT"
+			"name": "BIOSKOP CAMPURAN 1💫"
 		},
 		{
 			"id": 3,
-			"name": "PREMIUM MOVIE"
-		},
-		{
-			"id": 4,
 			"name": "KIDS"
 		},
 		{
+			"id": 4,
+			"name": "BIOSKOP 🇮🇩WARKOP DKI💫"
+		},
+		{
 			"id": 5,
-			"name": "ENTERTAINMENT"
+			"name": "BIOSKOP CAMPURAN 2💫"
 		},
 		{
 			"id": 6,
-			"name": "DISCOVERY"
+			"name": "BELUM DI UPADTE"
 		},
 		{
 			"id": 7,
-			"name": "SSC SPORTS"
+			"name": "BELUM DI UPADTE"
 		},
 		{
 			"id": 8,
-			"name": "BEIN |AR"
+			"name": "BELUM DI UPADTE"
 		},
 		{
 			"id": 9,
-			"name": "BEIN |FR"
+			"name": "BELUM DI UPADTE"
 		},
 		{
 			"id": 10,
-			"name": "DAZN"
+			"name": "BELUM DI UPADTE"
 		},
 		{
 			"id": 11,
-			"name": "ELEVEN PT"
+			"name": "BELUM DI UPADTE"
 		},
 		{
 			"id": 12,
-			"name": "TRANSVISION"
+			"name": "BELUM DI UPADTE"
 		},
 		{
 			"id": 13,
-			"name": "FOX SPORTS"
+			"name": "BELUM DI UPADTE"
 		},
 		{
 			"id": 14,
@@ -89,185 +89,484 @@
 		
 		{
 			"cid": 0,
-			"name": "MNCTV",			
-			"stream_url": "https://melon-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd"
+			"name": "MGAG⁰̶⁹̶🇮🇩Moji",
+			"stream_url_0": "http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298550",
+			"stream_url": "http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298550",
+			"stream_url_1": "http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298550",
+			"stream_url_2": "http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298550",
+			"stream_url_3": "http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298550"
 		},
 
 		{
 			"cid": 0,
-			"name": "RCTI",
-			"stream_url": "https://melon-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd"
+			"name": "MGAG⁰̶⁹̶🇮🇩Moji 1",
+			"stream_url_0": "http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298550",
+			"stream_url": "http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298550",
+			"stream_url_1": "http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298550",
+			"stream_url_2": "http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298550",
+			"stream_url_3": "http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298550"
 		},
 	{
 			"cid": 0,
-			"name": "GTV",
-			"stream_url": "http://melon-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd"
+			"name": "💫🇮🇩jTvV",
+			"stream_url": "http://ktpremium.xyz:2095/live/yv2268/22681081/73627.ts"
 		
 		},
 		{
 			"cid": 0,
-			"name": "iNews",
-			"stream_url": "http://melon-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd"
+			"name": "MGAG⁰̶⁹̶🇮🇩INDOSIAR ™️",
+			"stream_url": "http://ktpremium.xyz:2095/live/yv2268/22681081/73617.ts",
+			"stream_url_0": "http://ktpremium.xyz:2095/live/yv2268/22681081/73617.ts"
 		},
 
 		{
 			"cid": 0,
-			"name": "SCTV",
-			"stream_url": "https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.mpd"
+			"name": "MGAG⁰̶⁹̶🇮🇩INDOSIAR ™️",
+			"stream_url": "http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/162138.ts",
+			"stream_url_0": "http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/162138.ts"
 		},
 
 {
 			"cid": 0,
-			"name": "INDOSIAR",
-			"stream_url": "http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138"
+			"name": "MGAG⁰̶⁹̶🇮🇩 Sctv",
+			"stream_url": "http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162141",
+			"stream_url_0": "http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162141"
 		},
 
 {
 			"cid": 0,
-			"name": "ANTV",
-			"stream_url": "http://melon-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd"
+			"name": "MGAG⁰̶⁹̶🇮🇩 Sctv Satu",
+			"stream_url": "http://ktpremium.xyz:2095/live/yv2268/22681081/73607.ts",
+			"stream_url_0": "http://ktpremium.xyz:2095/live/yv2268/22681081/73607.ts"
 		},
 
 
 		{
 			"cid": 0,
-			"name": "tvOne",
-			"stream_url": "https://cempedak-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd"
+			"name": "MGAG⁰̶⁹̶Trans7",
+			"stream_url": "https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1989690183_b744100_sleng.m3u8",
+			"stream_url_0": "https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1989690183_b744100_sleng.m3u8"
 		},
 		{
 			"cid": 0,
-			"name": "NET",
-			"stream_url": "http://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8"
+			"name": "MGAG⁰̶⁹̶Trans Tv",
+			"stream_url": "https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2090299990_b744100_sleng.m3u8",
+			"stream_url_0": "https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2090299990_b744100_sleng.m3u8",
+			"stream_url_1": "https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2090299990_b744100_sleng.m3u8",
+			"stream_url_2": "https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2090299990_b744100_sleng.m3u8",
+			"stream_url_3": "https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2090299990_b744100_sleng.m3u8",
+			"stream_url_4": "https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2090299990_b744100_sleng.m3u8",
+			"stream_url_5": "https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2090299990_b744100_sleng.m3u8"
 		},
 		
 		{
 			"cid": 0,
-			"name": "Moji",
-			"stream_url": "http://103.237.32.213:9981/stream/channelid/1756390848?profile=pass"
+			"name": "MGAG⁰̶⁹̶🇮🇩 Antv ",
+			"stream_url": "http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8"
 		},
 		{
 			"cid": 0,
-			"name": "RTV",
-			"stream_url": "http://melon-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd"
+			"name": "MGAG⁰̶⁹̶🇮🇩 Tv one TV",
+			"stream_url": "http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8"
 		
 		},
 		{
 			"cid": 0,
-			"name": "CNN INDONESIA",
-			"stream_url": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8"
+			"name": "MGAG⁰̶⁹̶🇮🇩MNCTV ",
+			"stream_url": "http://ktpremium.xyz:2095/live/yv2268/22681081/73616.ts",
+			"stream_url_0": "http://ktpremium.xyz:2095/live/yv2268/22681081/73616.ts"
 		},
 		{
 			"cid": 0,
-			"name": "VTV",
-			"stream_url": "https://flv.intechmedia.net/live/ch107.m3u8"
+			"name": "MGAG⁰̶⁹̶🇮🇩 MNCTV",
+			"stream_url_2": "http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/165054.ts",
+			"stream_url_1": "http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/165054.ts",
+			"stream_url_0": "http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/165054.ts",
+			"stream_url": "http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/165054.ts"
 		},
 		{
 			"cid": 0,
-			"name": "DaaiTV",
-			"stream_url": "http://melon-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd"
+			"name": "MGAG⁰̶⁹̶🇮🇩RCTI",
+			"stream_url": "https://v5.siar.us:443/rctv/live/chunks.m3u8",
+			"stream_url_0": "https://v5.siar.us:443/rctv/live/chunks.m3u8"
 		},
 		{
 			"cid": 0,
-			"name": "Kompas TV",
-			"stream_url": "http://melon-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd"
+			"name": "MGAG⁰̶⁹̶🇮🇩RCTI#1",
+			"stream_url": "http://ktpremium.xyz:2095/live/yv2268/22681081/73606.ts"
 		},
 		{
 			"cid": 0,
-			"name": "MetroTV",
-			"stream_url": "http://melon-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
+			"name": "MGAG⁰̶⁹̶🇮🇩GTV",
+			"stream_url": "http://iptvtree.net:8080/live/one-day-test-89fc/54CbToqS2c/157578.ts"
 		},
 		{
 			"cid": 0,
-			"name": "TransTV",
-			"stream_url": "http://melon-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd"
+			"name": "MGAG⁰̶⁹̶🇮🇩GTV #1",
+			"stream_url_0": "http://ktpremium.xyz:2095/live/yv2268/22681081/73619.ts",
+			"stream_url": "http://ktpremium.xyz:2095/live/yv2268/22681081/73619.ts",
+			"stream_url_1": "http://ktpremium.xyz:2095/live/yv2268/22681081/73619.ts",
+			"stream_url_2": "http://ktpremium.xyz:2095/live/yv2268/22681081/73619.ts",
+			"stream_url_3": "http://ktpremium.xyz:2095/live/yv2268/22681081/73619.ts"
 		},
 		{
 			"cid": 0,
-			"name": "Trans7",
-			"stream_url": "http://melon-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd"
+			"name": "MGAG⁰̶⁹̶🇮🇩RTV",
+			"stream_url": "http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=RTV",
+			"stream_url_0": "http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=RTV",
+			"stream_url_1": "http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=RTV",
+			"stream_url_2": "http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=RTV"
+		},
+		{
+			"cid": 0,
+			"name": "MGAG⁰̶⁹̶🇮🇩Vtv",
+			"stream_url": "http://103.237.32.213:9981/stream/channelid/757539105?profile=pass",
+			"stream_url_0": "http://103.237.32.213:9981/stream/channelid/757539105?profile=pass",
+			"stream_url_1": "http://103.237.32.213:9981/stream/channelid/757539105?profile=pass",
+			"stream_url_2": "http://103.237.32.213:9981/stream/channelid/757539105?profile=pass",
+			"stream_url_3": "http://103.237.32.213:9981/stream/channelid/757539105?profile=pass",
+			"stream_url_4": "http://103.237.32.213:9981/stream/channelid/757539105?profile=pass",
+			"stream_url_5": "http://103.237.32.213:9981/stream/channelid/757539105?profile=pass"
+		},
+		{
+			"cid": 0,
+			"name": "MGAG⁰̶⁹̶🇮🇩NET TV",
+			"stream_url": "http://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=NET.",
+			"stream_url_0": "http://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=NET.",
+			"stream_url_1": "http://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=NET.",
+			"stream_url_2": "http://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=NET.",
+			"stream_url_3": "http://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=NET."
 		},
 		{
 			"cid": 0,
 			"name": "TVRI",
-			"stream_url": "http://melon-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd"
+			"stream_url": "http://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=TVRI"
 		},
 		{
 			"cid": 0,
-			"name": "JakTV",
-			"stream_url": "http://melon-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd"
-		},
-		{
-			"cid": 0,
-			"name": "JTV",
-			"stream_url": "http://melon-live-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd"
-		},
-		{
-			"cid": 0,
-			"name": "Bali TV",
-			"stream_url": "https://melon-live-cdn.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd"
+			"name": "METRO",
+			"stream_url_2": "http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Metro_TV",
+			"stream_url_1": "http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Metro_TV",
+			"stream_url": "http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Metro_TV",
+			"stream_url_0": "http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Metro_TV"
 		},
 	
 		{
 			"cid": 0,
-			"name": "Bandung TV",
-			"stream_url": "http://melon-live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd"
+			"name": "KOMPAS TV",
+			"stream_url": "http://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Kompas_TV",
+			"stream_url_0": "http://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Kompas_TV",
+			"stream_url_1": "http://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Kompas_TV",
+			"stream_url_2": "http://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Kompas_TV",
+			"stream_url_3": "http://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Kompas_TV",
+			"stream_url_4": "http://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Kompas_TV"
 		},
-		{
-			"cid": 0,
-			"name": "OK TV",
-			"stream_url": "http://melon-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd"
-		},
-		{
-			"cid": 0,
-			"name": "BTV",
-			"stream_url": "https://melon-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd"
-		},
-		{
-			"cid": 0,
-			"name": "Jawa Pos TV",
-			"stream_url": "https://jawapostv.siar.us/jawapostv/live/playlist.m3u8"
-		},
-		{
-			"cid": 0,
-			"name": "Elshinta TV",
-			"stream_url": "https://op-group2-swiftservesd-1.dens.tv/s/s12/S4/mnf.m3u8"
-		},
-		{
-			"cid": 0,
-			"name": "CNBC INDONESIA",
-			"stream_url": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8"
-		},
-		{
-			"cid": 0,
-			"name": "TVRI WORLD",
-			"stream_url": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8?checkedby:iptvcat.com"
-		},
-		{
-			"cid": 0,
-			"name": "Garuda TV",
-			"stream_url": "https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8"
-		},
-		
-		
-		
-		
 
 		{
 			"cid": 1,
-			"name": "LIVE 1",
-			"stream_url": "http://103.237.32.213:9981/stream/channelid/1888111875?profile=pass"
+			"name": "💫ASTRO  SATU",
+			"stream_url": "http://152.89.62.76:8880/live/D12m1495/23236986/1722.ts"
 		},
 		{
 			"cid": 1,
-			"name": "LIVE 2",
-			"stream_url": "http://108.181.132.217:8070/AmirBilali/76448035/162138"
+			"name": "💫ASTRO DUA",
+			"stream_url": "http://152.89.62.76:8880/live/D12m1495/23236986/1721.ts"
+		},
+		{
+			"cid": 1,
+			"name": "💫ASTRO TIGA",
+			"stream_url": "http://152.89.62.76:8880/live/D12m1495/23236986/1720.ts",
+			"stream_url_1": "http://152.89.62.76:8880/live/D12m1495/23236986/1720.ts",
+			"stream_url_2": "http://152.89.62.76:8880/live/D12m1495/23236986/1720.ts"
+		},
+		{
+			"cid": 1,
+			"name": " FOX SPORT 1",
+			"stream_url": "http://premiumiptvmk.com:8080/F19236/516c41c7/279034"
+		},
+		{
+			"cid": 1,
+			"name": "FOX SPORT 2",
+			"stream_url_1": "http://premiumiptvmk.com:8080/F19236/516c41c7/81784",
+			"stream_url": "http://premiumiptvmk.com:8080/F19236/516c41c7/81784"
+		},
+		{
+			"cid": 1,
+			"name": "FOX SPORT 3",
+			"stream_url": "http://premiumiptvmk.com:8080/F19236/516c41c7/280192"
+		},
+		{
+			"cid": 1,
+			"name": "FOX SPORT 4",
+			"stream_url": "http://premiumiptvmk.com:8080/F19236/516c41c7/280193"
+		},
+		{
+			"cid": 1,
+			"name": "FOX SPORT 5",
+			"stream_url_0": "http://premiumiptvmk.com:8080/F19236/516c41c7/144772",
+			"stream_url": "http://premiumiptvmk.com:8080/F19236/516c41c7/144772"
+		},
+		{
+			"cid": 1,
+			"name": "BEIN 1",
+			"stream_url_1": "http://elprofessor.otts.pro:80/omarHusby2412/PCRAGX1VED/618281",
+			"stream_url": "http://elprofessor.otts.pro:80/omarHusby2412/PCRAGX1VED/618281",
+			"stream_url_2": "http://elprofessor.otts.pro:80/omarHusby2412/PCRAGX1VED/618281"
+		},
+		{
+			"cid": 1,
+			"name": "BEIN 2",
+			"stream_url_1": "http://elprofessor.otts.pro:80/omarHusby2412/PCRAGX1VED/618280",
+			"stream_url": "https://video.detik.com/transtv/smil:transtv.smil/chunklist_b744100_sleng.m3u8"
+		},
+		{
+			"cid": 1,
+			"name": "BEIN 3",
+			"stream_url": "http://elprofessor.otts.pro:80/omarHusby2412/PCRAGX1VED/618279",
+			"stream_url_0": "http://elprofessor.otts.pro:80/omarHusby2412/PCRAGX1VED/618279"
+		},
+	
+		{
+			"cid": 1,
+			"name": "BEIN 4 ",
+			"stream_url": "http://elprofessor.otts.pro:80/omarHusby2412/PCRAGX1VED/618278"
+		},
+
+		{
+			"cid": 1,
+			"name": "BEIN 5",
+			"stream_url": "http://elprofessor.otts.pro:80/omarHusby2412/PCRAGX1VED/618277"
+		},
+		{
+			"cid": 1,
+			"name": "BEIN 6",
+			"stream_url": "http://elprofessor.otts.pro:80/omarHusby2412/PCRAGX1VED/574537"
+		},
+		{
+			"cid": 1,
+			"name": "BEIN 7",
+			"stream_url": "http://elprofessor.otts.pro:80/omarHusby2412/PCRAGX1VED/574536"
+		},
+		{
+			"cid": 1,
+			"name": " BEIN 8",
+			"stream_url": "http://elprofessor.otts.pro:80/omarHusby2412/PCRAGX1VED/574535"
+		},
+		{
+			"cid": 1,
+			"name": "BEIN 9",
+			"stream_url_1": "http://elprofessor.otts.pro:80/omarHusby2412/PCRAGX1VED/618252",
+			"stream_url": "http://elprofessor.otts.pro:80/omarHusby2412/PCRAGX1VED/618252"
+		},
+		{
+			"cid": 1,
+			"name": " BEIN 10",
+			"stream_url": "http://elprofessor.otts.pro:80/omarHusby2412/PCRAGX1VED/618251"
+		},
+		{
+			"cid": 1,
+			"name": "BEIN 11",
+			"stream_url": "http://elprofessor.otts.pro:80/omarHusby2412/PCRAGX1VED/618269"
+		},
+		{
+			"cid": 1,
+			"name": "CANAL + 1",
+			"stream_url": "http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/2789"
+		},
+		{
+			"cid": 1,
+			"name": "CANAL + 2",
+			"stream_url": "http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/2793"
+		},
+		{
+			"cid": 1,
+			"name": "CANAL + 3",
+			"stream_url": "http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/28090"
+		},
+		{
+			"cid": 1,
+			"name": "CANAL + 4",
+			"stream_url": "http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/28146",
+			"stream_url_1": "http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/28146"
+		},
+		{
+			"cid": 1,
+			"name": "ASTRO ARENA 1",
+			"stream_url_0": "http://filex.tv:8080/paramjeetsingh/002818/303495",
+			"stream_url": "http://filex.tv:8080/paramjeetsingh/002818/303495"
+		},
+		{
+			"cid": 1,
+			"name": "ASTRO ARENA 2",
+			"stream_url": "http://filex.tv:8080/paramjeetsingh/002818/303496"
 		},
 		
-		
-		
-		
-		
-		
+		{
+			"cid": 1,
+			"name": "PLAY SPORT 1",
+			"stream_url": "http://103.127.99.190:80/play/ZacwcMgce4_cNW_Q3AOJh0IBEvQAx_LxZXNF0HPclV8/ts",
+			"stream_url_0": "http://103.127.99.190:80/play/ZacwcMgce4_cNW_Q3AOJh0IBEvQAx_LxZXNF0HPclV8/ts",
+			"stream_url_1": "http://103.127.99.190:80/play/ZacwcMgce4_cNW_Q3AOJh0IBEvQAx_LxZXNF0HPclV8/ts"
+		},
+		{
+			"cid": 1,
+			"name": "PLAY SPORT 2",
+			"stream_url": "http://103.127.99.190:80/play/ZacwcMgce4_cNW_Q3AOJh4H-SZw38kWrz0xV4EhpfLY/ts"
+		},
+		{
+			"cid": 1,
+			"name": "FIFA WORLD CUP 1",
+			"stream_url": "https://anutv.xyz/live/wcub/wcub4.m3u8"
+		},
+		{
+			"cid": 1,
+			"name": "FIFA WORLD CUP 2",
+			"stream_url_0": "https://anutv.xyz/live/wcub/wcub5.m3u8",
+			"stream_url": "https://anutv.xyz/live/wcub/wcub5.m3u8"
+		},
+		{
+			"cid": 1,
+			"name": "MU SPORT TV",
+			"stream_url_0": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8",
+			"stream_url": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8"
+		},
+		{
+			"cid": 1,
+			"name": "TENES TV",
+			"stream_url": "https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8"
+		},
+		{
+			"cid": 1,
+			"name": "OLIMPIADE PARIS 1",
+			"stream_url": "http://select-iptv.net:80/Mariokroby/s36cm3h3pf/1282297",
+			"stream_url_0": "http://select-iptv.net:80/Mariokroby/s36cm3h3pf/1282297",
+			"stream_url_1": "http://select-iptv.net:80/Mariokroby/s36cm3h3pf/1282297"
+		},
+		{
+			"cid": 1,
+			"name": "OLIMPIADE PARIS 2",
+			"stream_url": "http://select-iptv.net:80/Mariokroby/s36cm3h3pf/1282296"
+		},
+		{
+			"cid": 1,
+			"name": "OLIMPIADE PARIS 3",
+			"stream_url": "http://select-iptv.net:80/Mariokroby/s36cm3h3pf/1282295"
+		},
+		{
+			"cid": 1,
+			"name": "OLIMPIADE PARIS 4",
+			"stream_url": "http://select-iptv.net:80/Mariokroby/s36cm3h3pf/1282294"
+		},
+		{
+			"cid": 1,
+			"name": "OLIMPIADE PARIS 5",
+			"stream_url": "http://select-iptv.net:80/Mariokroby/s36cm3h3pf/1282293",
+			"stream_url_0": "http://select-iptv.net:80/Mariokroby/s36cm3h3pf/1282293",
+			"stream_url_1": "http://select-iptv.net:80/Mariokroby/s36cm3h3pf/1282293"
+		},
+		{
+			"cid": 1,
+			"name": "OLIMPIADE PARIS 6",
+			"stream_url": "http://select-iptv.net:80/Mariokroby/s36cm3h3pf/1282292",
+			"stream_url_1": "http://select-iptv.net:80/Mariokroby/s36cm3h3pf/1282292"
+		},
+		{
+			"cid": 1,
+			"name": "OLIMPIADE PARIS 7",
+			"stream_url": "http://select-iptv.net:80/Mariokroby/s36cm3h3pf/1282291"
+		},
+		{
+			"cid": 1,
+			"name": "OLIMPIADE PARIS 8",
+			"stream_url": "http://select-iptv.net:80/Mariokroby/s36cm3h3pf/1282290"
+		},
+		{
+			"cid": 1,
+			"name": "BLIARD TV",
+			"stream_url": "https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8"
+		},
+		{
+			"cid": 1,
+			"name": "DUBAI SPORT 1",
+			"stream_url": "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8"
+		},
+		{
+			"cid": 1,
+			"name": "Fighting SPORT ",
+			"stream_url": "https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8"
+		},
+		{
+			"cid": 1,
+			"name": "REDBULL TV",
+			"stream_url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8"
+		},
+		{
+			"cid": 1,
+			"name": "Start sport TV 1",
+			"stream_url_0": "http://103.120.172.74:4600",
+			"stream_url": "http://103.120.172.74:4600"
+		},
+		{
+			"cid": 1,
+			"name": "START SPORT 2 TV",
+			"stream_url": "http://103.120.172.74:1030"
+		},
+		{
+			"cid": 1,
+			"name": "SPORT GOLF TV",
+			"stream_url": "http://mytv-extra.com:900/t12mgxyb335/9832948789/181475"
+		},
+		{
+			"cid": 1,
+			"name": "HORIZON SPORT TV",
+			"stream_url": "https://op-group1-swiftservehd-1.dens.tv/h/h127/live.m3u8"
+		},
+		{
+			"cid": 1,
+			"name": "SPORT MOTOR TV",
+			"stream_url": "https://op-group1-swiftservehd-1.dens.tv/h/h123/live.m3u8"
+		},
+		{
+			"cid": 1,
+			"name": "TVRI TV SPORT",
+			"stream_url": "https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8"
+		},
+		{
+			"cid": 1,
+			"name": "W SPORT",
+			"stream_url": "https://op-group1-swiftservehd-1.dens.tv/h/h26/index.m3u8"
+		},
+		{
+			"cid": 1,
+			"name": "Okey TV OLIMPIADE",
+			"stream_url": "https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd"
+		},
+		{
+			"cid": 1,
+			"name": "SUKAN OLIMPIADE",
+			"stream_url": "https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd"
+		},
+		{
+			"cid": 1,
+			"name": "PPTV PARIS  TV",
+			"stream_url": "http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8"
+		},
+		{
+			"cid": 1,
+			"name": "PPTV PARIS TV",
+			"stream_url": "http://appdootv2.dootvde.com:1935/live/50003_ch7.stream.smil/playlist.m3u8"
+		},
+		{
+			"cid": 1,
+			"name": "MCOD SPORT",
+			"stream_url": "http://appdootv2.dootvde.com:1935/live/50004_ch9.stream.smil/playlist.m3u8",
+			"stream_url_1": "http://appdootv2.dootvde.com:1935/live/50004_ch9.stream.smil/playlist.m3u8"
+		},
+		{
+			"cid": 1,
+			"name": "OLIMPIADE ON SPORTVOI",
+			"stream_url": "http://mohdtv.com:8880/voby4887/64694938/66827"
+		},
 		{
 			"cid": 2,
 			"name": "Lazaz 2024",
@@ -7801,11 +8100,5 @@
       "name": "Mumun (CAM) (2022)",
       "stream_url": "http://23.226.71.76/kn3lPeeBYGh9aSU1w3ezBd4Izw7rxjzIkg6zzO8M4a7eO9XXxNCvGiuxWEXsm7sQMDoHe4BGvgKdCcpSYhoH0g/1n2ms5rpXJx4CM5t6suss1MY-qWo2yrf8QCE3avP7qA/video.m3u8"
     }
-	
-	
-	
-	
-	
-	
   ]
 }
