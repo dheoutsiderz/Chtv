@@ -362,10 +362,7 @@ https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Liv
 
   
 ##### &#9917;FIFA CLUB WORLD CUP #####  
-  
-#EXTINF:-1 group-title="&#9917;FIFA CLUB WORLD CUP" tvg-logo="https://i.imgur.com/zUrRHHZ.png",KOPI SUSU
-https://bit.ly/DonzTelevisionQRcode 
-  
+    
 #EXTINF:-1 tvg-id="DAZNSport.id" tvg-logo="https://i.imgur.com/ifcwHwY.jpg" group-title="&#9917;FIFA CLUB WORLD CUP",TRT SPOR
 http://iptvde.de:8080/live/OsmanTokmak/fgxgthus/89081.m3u8
   
@@ -435,9 +432,6 @@ https://fl3.moveonjoy.com/TBS/tracks-v1a1/mono.ts.m3u8
   
 ##### &#11088;SPORTS CHANNEL #####
   
-#EXTINF:-1 group-title="&#11088;SPORTS CHANNEL" tvg-logo="https://i.imgur.com/zUrRHHZ.png",KOPI SUSU
-https://bit.ly/DonzTelevisionQRcode
-
 #EXTINF:-1 group-title="&#11088;SPORTS CHANNEL" tvg-logo="https://i.imgur.com/EjKmAS2.jpg",BADMINTON COURT 1
 #EXTVLCOPT:http-origin=https://kami.drawntightlymuxulx.sbs
 #EXTVLCOPT:http-referrer=https://kami.drawntightlymuxulx.sbs/
